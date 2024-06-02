@@ -9,8 +9,8 @@ This repository contains a Transformer model to predict protein signal sequences
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/protein-signal-sequence-predictor.git
-    cd protein-signal-sequence-predictor
+    git clone git@github.com:b0risfosso/signal-sequence-prediction.git
+    cd signal-sequence-prediction
     ```
 
 2. **Create and activate the conda environment:**
@@ -20,10 +20,10 @@ This repository contains a Transformer model to predict protein signal sequences
     conda activate protein_env
     ```
 
-3. **Run the program:**
+3. **Run the main script:**
 
     ```bash
-    python protein_transformer.py
+    python src/main.py
     ```
 
 ### Using Pip
@@ -31,8 +31,8 @@ This repository contains a Transformer model to predict protein signal sequences
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/protein-signal-sequence-predictor.git
-    cd protein-signal-sequence-predictor
+    git clone git@github.com:b0risfosso/signal-sequence-prediction.git
+    cd signal-sequence-prediction
     ```
 
 2. **Create a virtual environment and activate it:**
@@ -48,16 +48,16 @@ This repository contains a Transformer model to predict protein signal sequences
     pip install -r requirements.txt
     ```
 
-4. **Run the program:**
+4. **Run the main script:**
 
     ```bash
-    python protein_transformer.py
+    python src/main.py
     ```
 
 ## Usage
 
-Provide additional details on how to use the program, input data format, etc.
+...
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+...
